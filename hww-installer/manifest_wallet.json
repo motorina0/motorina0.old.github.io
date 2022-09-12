@@ -1,0 +1,14 @@
+{
+  "name": "LNbits HWW",
+  "version": "0.1",
+  "home_assistant_domain": "lnbits_hww",
+  "funding_url": "https://github.com/lnbits/hardware-wallet",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "firmware/wallet.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
