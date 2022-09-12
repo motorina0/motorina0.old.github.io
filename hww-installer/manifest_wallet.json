@@ -1,7 +1,6 @@
 {
   "name": "LNbits HWW",
   "version": "0.1",
-  "home_assistant_domain": "lnbits_hww",
   "funding_url": "https://github.com/lnbits/hardware-wallet",
   "new_install_prompt_erase": true,
   "builds": [
