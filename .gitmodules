@@ -4,3 +4,6 @@
 [submodule "LNPoS"]
 	path = LNPoS
 	url = https://github.com/motorina0/LNPoS
+[submodule "lnpos"]
+	path = lnpos
+	url = https://github.com/motorina0/LNPoS
